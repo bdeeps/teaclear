@@ -1,0 +1,903 @@
+{
+  "title": "The history of tea",
+  "tagline": "From a wild leaf in the hills where China, Myanmar and Assam meet to a billion cups of chai a day.",
+  "intro": "For most of its history tea was a Chinese craft, described by Lu Yu in the 8th century and carried west by Dutch and British ships. In the 19th century the British found Assam's own tea plant and built plantations on indentured labour. In the 20th, a machine from Assam called CTC and a campaign to sell tea at home gave India its chai, while chemists worked out what happens inside the leaf and the cup.",
+  "eras": [
+    {
+      "id": "craft",
+      "name": "A Chinese craft",
+      "from": -2737,
+      "to": 1600,
+      "color": "#5ce1a9",
+      "summary": "Tea is boiled, whisked and at last steeped as loose leaf in China, and carried to Japan by monks."
+    },
+    {
+      "id": "trade",
+      "name": "A world commodity",
+      "from": 1600,
+      "to": 1823,
+      "color": "#ffb547",
+      "summary": "Dutch and British ships carry tea to Europe, the word splits into tea and chai, and chemists find caffeine."
+    },
+    {
+      "id": "empire",
+      "name": "Assam, empire and labour",
+      "from": 1823,
+      "to": 1947,
+      "color": "#ff7a59",
+      "summary": "India's own tea plant is found, plantations spread from Assam to Darjeeling and Ceylon on indentured labour, and CTC and chai are born."
+    },
+    {
+      "id": "science",
+      "name": "Chai, science and the modern cup",
+      "from": 1947,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Independent India regulates the gardens and drinks most of its own tea, while chemistry explains the leaf and health bodies set guidance for the cup."
+    }
+  ],
+  "events": [
+    {
+      "year": -2737,
+      "date": "2737 BCE (legend)",
+      "era": "craft",
+      "art": "leaf",
+      "key": false,
+      "title": "A leaf falls into the emperor's water",
+      "who": "Shennong (legendary)",
+      "where": "China",
+      "country": "China",
+      "text": "Chinese legend says the mythical ruler Shennong discovered tea in 2737 BCE, when leaves blew into water he was boiling. It is a story, not a record, but it shows how old the Chinese believed the drink to be.",
+      "why": "Tea's home is the region where south-west China, north Myanmar and north-east India meet.",
+      "sources": [
+        0,
+        1,
+        34
+      ],
+      "box": "leaf"
+    },
+    {
+      "year": -141,
+      "date": "2nd century BCE",
+      "era": "craft",
+      "art": "flask",
+      "key": false,
+      "title": "The oldest tea ever found",
+      "who": "Court of Emperor Jing of Han",
+      "where": "Xi'an, China",
+      "country": "China",
+      "text": "In 2016 researchers reported tea among the offerings in the tomb of Emperor Jing of the Han dynasty, who died in 141 BCE. It is the earliest physical evidence of tea, and it shows emperors were drinking it more than 2,100 years ago.",
+      "why": "It moves tea from legend to evidence.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 760,
+      "date": "760–762",
+      "era": "craft",
+      "art": "scroll",
+      "key": true,
+      "title": "Lu Yu writes The Classic of Tea",
+      "who": "Lu Yu",
+      "where": "Tang dynasty China",
+      "country": "China",
+      "text": "Lu Yu wrote the first book devoted to tea, in ten chapters: where the plant grows, the tools for making it, how to boil the water, how to drink it and which regions make the best. Tea in his day was pressed into cakes and boiled.",
+      "why": "It turned a regional habit into a craft with rules, and spread it across China.",
+      "sources": [
+        2,
+        1
+      ],
+      "box": "six"
+    },
+    {
+      "year": 1191,
+      "date": "1191 and 1211",
+      "era": "craft",
+      "art": "quill",
+      "key": false,
+      "title": "Eisai carries tea seeds to Japan",
+      "who": "Eisai",
+      "where": "Kyoto, Japan",
+      "country": "Japan",
+      "text": "Monks had brought tea to Japan around 805, but it was the Zen monk Eisai who planted seeds near Kyoto in 1191 and, in 1211, wrote Kissa Yojoki, a book on drinking tea. Powdered green tea, whisked in a bowl, became part of temple life.",
+      "why": "It began the Japanese tea tradition, which kept the green, unoxidised style.",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1610,
+      "date": "1607–1610",
+      "era": "trade",
+      "art": "boat",
+      "key": true,
+      "title": "Dutch ships carry tea towards Europe",
+      "who": "Dutch East India Company",
+      "where": "Macao, Hirado and Amsterdam",
+      "country": "Netherlands",
+      "text": "The first recorded European tea cargo went from Macao to Java on a Dutch ship in 1607. Two years later the Dutch bought tea at Hirado in Japan, and by about 1610 it was reaching Europe. The Dutch took the word 'te' from the coastal Min language, while lands supplied overland kept 'cha'.",
+      "why": "It is why English says tea and Hindi says chai.",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 1662,
+      "date": "1657–1662",
+      "era": "trade",
+      "art": "person",
+      "key": false,
+      "title": "Tea reaches the English court",
+      "who": "Catherine of Braganza",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Tea was on sale in a London coffee house by 1657. In 1662 the Portuguese princess Catherine of Braganza married King Charles II and brought her tea-drinking habit to court, which made it fashionable.",
+      "why": "English demand for tea would drive two centuries of trade and empire in Asia.",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 1738,
+      "date": "1738",
+      "era": "trade",
+      "art": "leaf",
+      "key": false,
+      "title": "Steamed sencha is perfected",
+      "who": "Nagatani Soen",
+      "where": "Uji, Japan",
+      "country": "Japan",
+      "text": "The tea farmer Nagatani Soen developed the sencha method: fresh leaf is steamed to stop the enzyme at once, then rolled and dried. China fixes its green teas in a hot pan instead.",
+      "why": "Steaming against pan-firing is still the main divide between Japanese and Chinese green tea.",
+      "sources": [
+        1
+      ],
+      "box": "six"
+    },
+    {
+      "year": 1819,
+      "date": "1819–1838",
+      "era": "trade",
+      "art": "molecule",
+      "key": false,
+      "title": "Caffeine is isolated, then found in tea",
+      "who": "Friedlieb Runge, Oudry, Mulder and Jobst",
+      "where": "Germany, France, Netherlands",
+      "country": "Germany",
+      "text": "Runge isolated caffeine from coffee in 1819. In 1827 Oudry found a stimulant in tea and called it théine. By 1838 chemists had shown the two were one and the same molecule.",
+      "why": "Tea's lift and coffee's lift turned out to be the same chemical.",
+      "sources": [
+        15
+      ],
+      "box": "brew"
+    },
+    {
+      "year": 1823,
+      "date": "1823",
+      "era": "empire",
+      "art": "leaf",
+      "key": true,
+      "title": "Assam's own tea plant is shown to the British",
+      "who": "Robert Bruce, Maniram Dewan and the Singpho chief Bessa Gam",
+      "where": "Upper Assam",
+      "country": "India",
+      "text": "The Singpho people of Assam had long brewed the leaves of a wild local tea plant. In 1823 Maniram Dewan directed the Scottish trader Robert Bruce to the Singpho chief Bessa Gam, who showed it to him. Botanists later named it Camellia sinensis var. assamica.",
+      "why": "India turned out to have a tea plant of its own, with bigger leaves and a stronger cup than China's.",
+      "sources": [
+        3,
+        4,
+        36
+      ],
+      "box": "leaf"
+    },
+    {
+      "year": 1839,
+      "date": "1837–1839",
+      "era": "empire",
+      "art": "boat",
+      "key": true,
+      "title": "The first Assam tea is sold in London",
+      "who": "The Tea Committee and the Assam Company",
+      "where": "Chabua, Assam, and London",
+      "country": "India",
+      "text": "The first British tea garden was set up at Chabua in Upper Assam in 1837. A first small consignment of Assam tea was shipped in 1838 and auctioned in London in January 1839. That year the Assam Company was formed to grow tea on a large scale.",
+      "why": "It broke China's hold on the tea trade and began the plantation industry.",
+      "sources": [
+        3,
+        36
+      ],
+      "box": "india"
+    },
+    {
+      "year": 1841,
+      "date": "1841 and 1856",
+      "era": "empire",
+      "art": "mountain",
+      "key": false,
+      "title": "Tea is planted in Darjeeling",
+      "who": "Archibald Campbell",
+      "where": "Darjeeling",
+      "country": "India",
+      "text": "Archibald Campbell planted Chinese tea seeds in Darjeeling in 1841. The first commercial gardens opened in 1856, and by 1866 there were 39. The small-leaved China plant suited the cold, steep slopes.",
+      "why": "It gave India its most famous tea, made from the China plant rather than the Assam one.",
+      "sources": [
+        5
+      ],
+      "box": "india"
+    },
+    {
+      "year": 1848,
+      "date": "1848",
+      "era": "empire",
+      "art": "person",
+      "key": false,
+      "title": "Robert Fortune brings Chinese plants and tea makers",
+      "who": "Robert Fortune",
+      "where": "China to India",
+      "country": "India",
+      "text": "The East India Company sent the Scottish botanist Robert Fortune into China. In 1848 he carried tea plants, in sealed glass Wardian cases, and skilled Chinese tea makers to India. Most of the plants died, but the know-how stayed.",
+      "why": "Chinese methods of making tea, more than Chinese plants, shaped the Indian industry.",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 1858,
+      "date": "26 February 1858",
+      "era": "empire",
+      "art": "person",
+      "key": false,
+      "title": "India's first tea planter is hanged",
+      "who": "Maniram Dewan",
+      "where": "Jorhat, Assam",
+      "country": "India",
+      "text": "Maniram Dewan, who had led the British to Assam's tea, became dewan of the Assam Company in 1839, then left and planted his own gardens at Cinnamara and Selung: the first Indian to grow tea commercially. For his part in the rising of 1857 he was publicly hanged at Jorhat.",
+      "why": "The man who opened the industry was shut out of it.",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": 1863,
+      "date": "1859–1866",
+      "era": "empire",
+      "art": "chain",
+      "key": true,
+      "title": "Indentured labour and its cost",
+      "who": "Recruited workers of the Assam gardens",
+      "where": "Assam",
+      "country": "India",
+      "text": "Planters brought workers from central and eastern India under contracts they could not leave. An 1859 law made breaking the contract a crime. Of 84,915 labourers recruited between 1863 and 1866, about 30,000 had died by June 1866. Men were paid ₹5 a month and women ₹4.",
+      "why": "Tea's low price was paid for by the people who plucked it. Their descendants still work the gardens.",
+      "sources": [
+        7
+      ],
+      "box": "india"
+    },
+    {
+      "year": 1867,
+      "date": "1867 and 1875",
+      "era": "empire",
+      "art": "leaf",
+      "key": false,
+      "title": "Ceylon turns from coffee to tea",
+      "who": "James Taylor",
+      "where": "Loolecondera, Sri Lanka",
+      "country": "Sri Lanka",
+      "text": "James Taylor planted 19 acres of tea at Loolecondera estate in 1867 and sent the first Ceylon tea to the London auction in 1875. A leaf disease was then destroying the island's coffee, and planters followed him into tea.",
+      "why": "It made Sri Lanka one of the world's great tea exporters.",
+      "sources": [
+        8,
+        1
+      ]
+    },
+    {
+      "year": 1903,
+      "date": "1903 onwards",
+      "era": "empire",
+      "art": "flame",
+      "key": true,
+      "title": "A campaign teaches India to drink tea",
+      "who": "Tea Cess Committee and Indian Tea Association",
+      "where": "Railways, mills and bazaars of India",
+      "country": "India",
+      "text": "A cess on tea exports from 1903 paid for promoting tea, at first abroad and then at home. The Indian Tea Association pressed factories, mines and mills to give tea breaks and backed tea stalls along the railways. Vendors added milk, sugar and spices, which the association at first disliked.",
+      "why": "That is how chai was born: Indians remade a planter's export as their own drink.",
+      "sources": [
+        12,
+        23,
+        24
+      ],
+      "box": "chai"
+    },
+    {
+      "year": 1908,
+      "date": "1903 and c. 1908",
+      "era": "empire",
+      "art": "waterdrop",
+      "key": true,
+      "title": "The tea bag",
+      "who": "Roberta Lawson and Mary McLaren; Thomas Sullivan",
+      "where": "Milwaukee and New York, USA",
+      "country": "United States",
+      "text": "Roberta Lawson and Mary McLaren of Milwaukee were granted a US patent for a 'tea leaf holder' in 1903. About 1908 the New York importer Thomas Sullivan sent out samples in small silk bags, and customers brewed them bag and all. The story that this was an accident is a popular legend.",
+      "why": "Bags suit small, fast-brewing leaf, and helped fannings and dust find a market.",
+      "sources": [
+        9
+      ],
+      "box": "brew"
+    },
+    {
+      "year": 1911,
+      "date": "1911",
+      "era": "empire",
+      "art": "flask",
+      "key": false,
+      "title": "Tocklai begins tea research",
+      "who": "Indian Tea Association",
+      "where": "Jorhat, Assam",
+      "country": "India",
+      "text": "The Tocklai Experimental Station opened at Jorhat in 1911. It is described as the world's oldest tea research institute, and it has bred many of the tea clones grown in north-east India.",
+      "why": "Tea making began to move from habit to measurement.",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1921,
+      "date": "1921 and 1926",
+      "era": "empire",
+      "art": "person",
+      "key": false,
+      "title": "The Chargola walk-out",
+      "who": "Tea workers of the Chargola valley",
+      "where": "Barak valley, Assam",
+      "country": "India",
+      "text": "In 1921 thousands of garden workers in the Chargola valley of Assam left the estates together in protest at their wages and conditions, and set off for their home districts. The law that had made leaving a contract a crime was withdrawn in 1926.",
+      "why": "It was one of the first mass labour protests in the plantations.",
+      "sources": [
+        35,
+        7
+      ],
+      "box": "india"
+    },
+    {
+      "year": 1930,
+      "date": "1930",
+      "era": "empire",
+      "art": "gear",
+      "key": true,
+      "title": "CTC: crush, tear, curl",
+      "who": "William McKercher",
+      "where": "Amgoorie tea garden, Assam",
+      "country": "India",
+      "text": "The first CTC machine went into service at Amgoorie in 1930 under William McKercher. Toothed rollers shred the withered leaf into granules, which oxidise quickly and brew fast, dark and strong. The method spread through India and Africa from the 1950s.",
+      "why": "More than 80% of India's tea is now CTC, and chai is built on it.",
+      "sources": [
+        10
+      ],
+      "box": "factory"
+    },
+    {
+      "year": 1949,
+      "date": "1949–1950",
+      "era": "science",
+      "art": "molecule",
+      "key": false,
+      "title": "Theanine is found in tea",
+      "who": "Yajiro Sakato",
+      "where": "Kyoto, Japan",
+      "country": "Japan",
+      "text": "In 1949 Sakato identified a new amino acid in tea, and in 1950 it was isolated from gyokuro, a shaded Japanese green tea. Theanine makes up 1 to 2% of the dry leaf and gives tea its savoury taste.",
+      "why": "It is found in very few plants other than tea.",
+      "sources": [
+        14
+      ],
+      "box": "leaf"
+    },
+    {
+      "year": 1951,
+      "date": "1951",
+      "era": "science",
+      "art": "building",
+      "key": true,
+      "title": "The Plantations Labour Act",
+      "who": "Parliament of India",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "Four years after independence, the Act made plantation owners responsible for their workers' housing, medical care, drinking water, crèches and canteens, and set rules for hours and leave. In November 2025 its provisions were folded into a new national labour code.",
+      "why": "It was the first law to set out what a tea estate owes the people who live and work on it.",
+      "sources": [
+        27
+      ],
+      "box": "india"
+    },
+    {
+      "year": 1954,
+      "date": "1 April 1954",
+      "era": "science",
+      "art": "scales",
+      "key": false,
+      "title": "The Tea Board of India",
+      "who": "Government of India",
+      "where": "Kolkata",
+      "country": "India",
+      "text": "Under the Tea Act of 1953, the Tea Board was set up on 1 April 1954 to regulate, research and promote Indian tea. It grew out of the Tea Cess Committee of 1903 and the Indian Tea Market Expansion Board of 1937.",
+      "why": "It still licenses the trade, protects names such as Darjeeling and publishes the industry's figures.",
+      "sources": [
+        12,
+        13
+      ],
+      "box": "india"
+    },
+    {
+      "year": 1957,
+      "date": "1957–1958",
+      "era": "science",
+      "art": "flask",
+      "key": false,
+      "title": "Theaflavins and thearubigins are named",
+      "who": "E. A. H. Roberts and colleagues",
+      "where": "Tea research laboratories, India and Britain",
+      "country": "India",
+      "text": "The chemist E. A. H. Roberts separated the coloured substances of black tea and named them: orange theaflavins and red-brown thearubigins. He showed they are made from the leaf's catechins during what the trade called fermentation.",
+      "why": "It explained black tea's colour, briskness and body in terms of molecules.",
+      "sources": [
+        31
+      ],
+      "box": "factory"
+    },
+    {
+      "year": 1973,
+      "date": "1973",
+      "era": "science",
+      "art": "leaf",
+      "key": false,
+      "title": "Ripe pu-erh is invented",
+      "who": "Kunming Tea Factory and Menghai Tea Factory",
+      "where": "Yunnan, China",
+      "country": "China",
+      "text": "Pu-erh tea slowly darkens over years as microbes work on it. In 1973 Yunnan factories developed wet piling: the leaf is heaped, dampened and turned, rather like compost, for about 45 to 60 days, to get a similar result quickly.",
+      "why": "It is the clearest case of tea that is truly fermented.",
+      "sources": [
+        16
+      ],
+      "box": "six"
+    },
+    {
+      "year": 1992,
+      "date": "1981–1993",
+      "era": "science",
+      "art": "thermometer",
+      "key": true,
+      "title": "A chemist times the teacup",
+      "who": "Michael Spiro and co-workers",
+      "where": "Imperial College London",
+      "country": "United Kingdom",
+      "text": "In a long series of papers, Spiro's group measured how fast caffeine and theaflavins leave tea leaf. They found a first-order process limited by diffusion inside the swollen leaf, faster with hotter water and smaller leaf. In 1993 they also explained the scum on tea made with hard water.",
+      "why": "It put numbers on brewing: for one black Assam leaf, half the caffeine is out in under two minutes at 80 °C.",
+      "sources": [
+        17,
+        29,
+        18
+      ],
+      "box": "brew"
+    },
+    {
+      "year": 2004,
+      "date": "2004 and 2011",
+      "era": "science",
+      "art": "compass",
+      "key": true,
+      "title": "Darjeeling becomes India's first GI",
+      "who": "Tea Board of India",
+      "where": "Darjeeling",
+      "country": "India",
+      "text": "In 2004 Darjeeling tea became the first Indian product registered as a geographical indication: only tea grown in 87 named gardens may carry the name. The European Union gave it protected status in 2011.",
+      "why": "Far more 'Darjeeling' had been sold in the world than Darjeeling ever grew.",
+      "sources": [
+        5
+      ],
+      "box": "india"
+    },
+    {
+      "year": 2016,
+      "date": "15 June 2016",
+      "era": "science",
+      "art": "thermometer",
+      "key": true,
+      "title": "Very hot drinks are classed as a probable cancer hazard",
+      "who": "International Agency for Research on Cancer",
+      "where": "Lyon, France",
+      "country": "France",
+      "text": "A WHO working group of 23 scientists classed drinking very hot beverages, above 65 °C, as probably carcinogenic to humans (Group 2A), linked to cancer of the oesophagus. Its director said it is the temperature, rather than the drinks themselves, that appears to be responsible.",
+      "why": "The advice is simple: let tea cool for a few minutes before drinking.",
+      "sources": [
+        19
+      ],
+      "box": "india"
+    },
+    {
+      "year": 2024,
+      "date": "May 2024",
+      "era": "science",
+      "art": "heart",
+      "key": false,
+      "title": "India's dietary guidelines speak about tea",
+      "who": "ICMR-National Institute of Nutrition",
+      "where": "Hyderabad",
+      "country": "India",
+      "text": "The revised Dietary Guidelines for Indians advise keeping caffeine within 300 mg a day, count 30 to 65 mg in a 150 ml cup of tea, and say to avoid tea and coffee for at least an hour before and after meals, because tannins hinder the absorption of iron. Europe's EFSA had set 400 mg a day for healthy adults in 2015.",
+      "why": "Iron-deficiency anaemia is common in India, so when you drink tea matters as well as how much.",
+      "sources": [
+        21,
+        20
+      ],
+      "box": "india"
+    },
+    {
+      "year": 2025,
+      "date": "24 December 2025",
+      "era": "science",
+      "art": "word",
+      "key": false,
+      "title": "Only Camellia sinensis may be called tea",
+      "who": "Food Safety and Standards Authority of India",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "FSSAI clarified that under its standards tea means a product made only from the leaves, buds and tender stems of Camellia sinensis. Selling other herbal or plant infusions as 'tea' is misbranding.",
+      "why": "A tulsi or chamomile drink is a herbal infusion, not a tea.",
+      "sources": [
+        26
+      ],
+      "box": "six"
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Earliest physical evidence of tea",
+      "value": "2nd century BCE",
+      "who": "Tomb of Emperor Jing of Han, Xi'an, China"
+    },
+    {
+      "label": "First book on tea",
+      "value": "760–762",
+      "who": "Lu Yu, The Classic of Tea, China"
+    },
+    {
+      "label": "First Assam tea sold in London",
+      "value": "January 1839",
+      "who": "Shipped from Assam in 1838"
+    },
+    {
+      "label": "First Indian commercial tea planter",
+      "value": "1840s",
+      "who": "Maniram Dewan, Cinnamara, Assam"
+    },
+    {
+      "label": "First CTC machine",
+      "value": "1930",
+      "who": "William McKercher, Amgoorie tea garden, Assam"
+    },
+    {
+      "label": "India's first geographical indication",
+      "value": "2004",
+      "who": "Darjeeling tea"
+    }
+  ],
+  "people": [
+    {
+      "name": "Lu Yu",
+      "life": "8th century",
+      "role": "Writer",
+      "from": "China",
+      "note": "He wrote The Classic of Tea between 760 and 762, the first book on how tea is grown, made and drunk."
+    },
+    {
+      "name": "Maniram Dewan",
+      "life": "1806 – 1858",
+      "role": "Nobleman and tea planter",
+      "from": "Assam, India",
+      "note": "He led the British to Assam's tea, became the first Indian to plant it commercially, and was hanged for his part in the rising of 1857."
+    },
+    {
+      "name": "Bessa Gam",
+      "life": "active 1820s",
+      "role": "Singpho chief",
+      "from": "Upper Assam, India",
+      "note": "His people had long made a drink from Assam's wild tea, and he showed the plant to Robert Bruce in 1823."
+    },
+    {
+      "name": "William McKercher",
+      "life": "active 1930",
+      "role": "Tea planter and engineer",
+      "from": "Assam, India",
+      "note": "Under him the first CTC machine went into service at Amgoorie tea garden in 1930."
+    },
+    {
+      "name": "Roberta Lawson and Mary McLaren",
+      "life": "active 1901–1903",
+      "role": "Inventors",
+      "from": "Milwaukee, United States",
+      "note": "They filed for a patent on a mesh tea-leaf holder in 1901, years before the tea bag was sold."
+    },
+    {
+      "name": "E. A. H. Roberts",
+      "life": "active 1950s",
+      "role": "Tea chemist",
+      "from": "United Kingdom and India",
+      "note": "He separated and named the theaflavins and thearubigins that give black tea its colour and bite."
+    },
+    {
+      "name": "Michael Spiro",
+      "life": "active 1980s–1990s",
+      "role": "Physical chemist",
+      "from": "Imperial College London",
+      "note": "He measured, minute by minute, how fast caffeine and theaflavins leave the leaf in a teapot."
+    }
+  ],
+  "series": [
+    {
+      "id": "india",
+      "title": "Tea made in India each year",
+      "unit": "million kg",
+      "log": false,
+      "after": "science",
+      "caption": "Tea Board of India figures. 2023 and 2024 are from the Board's own tables (2024 provisional); the earlier decade values are Tea Board statistics as quoted in published reviews.",
+      "points": [
+        {
+          "year": 1950,
+          "value": 278.21,
+          "label": "1950: 278 million kg"
+        },
+        {
+          "year": 1960,
+          "value": 321.07,
+          "label": "1960: 321 million kg"
+        },
+        {
+          "year": 1970,
+          "value": 418.51,
+          "label": "1970: 419 million kg"
+        },
+        {
+          "year": 1980,
+          "value": 569.17,
+          "label": "1980: 569 million kg"
+        },
+        {
+          "year": 1990,
+          "value": 720.33,
+          "label": "1990: 720 million kg"
+        },
+        {
+          "year": 2000,
+          "value": 846.92,
+          "label": "2000: 847 million kg"
+        },
+        {
+          "year": 2010,
+          "value": 966.4,
+          "label": "2010: 966 million kg"
+        },
+        {
+          "year": 2023,
+          "value": 1393.66,
+          "label": "2023: 1,394 million kg"
+        },
+        {
+          "year": 2024,
+          "value": 1284.78,
+          "label": "2024: 1,285 million kg, 54% from small growers"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Tea and chai are the same Chinese word, heard in two places. Ships from the Fujian coast carried 'te' to Europe. Traders by land carried 'cha' to India, Persia and Russia.",
+    "100 kg of plucked leaf is 77 kg of water. It makes only about 23.7 kg of finished tea.",
+    "Assam's tea gardens keep their own clock, 'Tea Garden Time', one hour ahead of Indian Standard Time, to make the most of the early daylight.",
+    "Darjeeling made 5.6 million kg of tea in 2024: less than half of one percent of India's crop.",
+    "Orange pekoe has nothing to do with oranges. It is a size grade of whole black tea leaf."
+  ],
+  "sources": [
+    {
+      "title": "Tea",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tea"
+    },
+    {
+      "title": "History of tea",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_tea"
+    },
+    {
+      "title": "The Classic of Tea",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Classic_of_Tea"
+    },
+    {
+      "title": "Assam tea",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Assam_tea"
+    },
+    {
+      "title": "Maniram Dewan",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maniram_Dewan"
+    },
+    {
+      "title": "Darjeeling tea",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Darjeeling_tea"
+    },
+    {
+      "title": "Robert Fortune",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robert_Fortune"
+    },
+    {
+      "title": "Tea-garden community",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tea-garden_community"
+    },
+    {
+      "title": "James Taylor (tea planter)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/James_Taylor_(tea_planter)"
+    },
+    {
+      "title": "Tea bag",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tea_bag"
+    },
+    {
+      "title": "Crush, tear, curl",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Crush,_tear,_curl"
+    },
+    {
+      "title": "Tocklai Tea Research Institute",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tocklai_Tea_Research_Institute"
+    },
+    {
+      "title": "About Tea Board India",
+      "publisher": "Tea Board of India",
+      "url": "https://www.teaboard.gov.in/TEABOARDCSM/NA=="
+    },
+    {
+      "title": "Tea Board of India",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tea_Board_of_India"
+    },
+    {
+      "title": "Theanine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Theanine"
+    },
+    {
+      "title": "Caffeine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Caffeine"
+    },
+    {
+      "title": "Pu'er tea",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pu%27er_tea"
+    },
+    {
+      "title": "Kinetics and equilibria of tea infusion, Part 9: caffeine extraction from green Chun Mee and black Assam Bukial teas (Spiro, Jaganyi and Broom, 1992)",
+      "publisher": "Food Chemistry",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/030881469290033X"
+    },
+    {
+      "title": "What causes scum on tea? (Spiro and Jaganyi, 1993)",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/364581a0"
+    },
+    {
+      "title": "IARC Monographs evaluate drinking coffee, maté, and very hot beverages (press release 244, 15 June 2016)",
+      "publisher": "International Agency for Research on Cancer, WHO",
+      "url": "https://www.iarc.who.int/wp-content/uploads/2018/07/pr244_E.pdf"
+    },
+    {
+      "title": "Scientific Opinion on the safety of caffeine (2015)",
+      "publisher": "European Food Safety Authority",
+      "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2015.4102"
+    },
+    {
+      "title": "Dietary Guidelines for Indians (2024)",
+      "publisher": "ICMR-National Institute of Nutrition",
+      "url": "https://nin.res.in/dietaryguidelines/pdfjs/locale/DGI_2024.pdf"
+    },
+    {
+      "title": "State wise/Region wise and Month wise Tea Production for the year 2024",
+      "publisher": "Tea Board of India",
+      "url": "https://www.teaboard.gov.in/pdf/State_Region_wise_tea_production_2024_and_2024_25_Apr_Dec_pdf4332.pdf"
+    },
+    {
+      "title": "Masala chai",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Masala_chai"
+    },
+    {
+      "title": "How British used Indian Railways, free cups, and targeted women to make Indians tea drinkers",
+      "publisher": "ThePrint",
+      "url": "https://theprint.in/pageturner/excerpt/how-british-used-indian-railways-free-cups-women-to-make-indians-tea-drinkers/711106/"
+    },
+    {
+      "title": "Tea processing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tea_processing"
+    },
+    {
+      "title": "FSSAI cracks down on tealess herbal 'tea', warns against misleading labels",
+      "publisher": "The South First",
+      "url": "https://thesouthfirst.com/health/fssai-cracks-down-on-tealess-herbal-tea-warns-against-misleading-labels/"
+    },
+    {
+      "title": "New Labour Codes Transforming Plantation Workers' Rights",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://www.pib.gov.in/FactsheetDetails.aspx?Id=150543&reg=6&lang=1"
+    },
+    {
+      "title": "Hike in Assam Tea Garden Workers' Daily Wage by ₹30 From Apr 1",
+      "publisher": "Outlook Business",
+      "url": "https://www.outlookbusiness.com/news/hike-in-assam-tea-garden-workers-daily-wage-by-30-from-apr-1"
+    },
+    {
+      "title": "Kinetics and equilibria of tea infusion: rates of extraction of theaflavin, caffeine and theobromine (Price and Spiro, 1985)",
+      "publisher": "Journal of the Science of Food and Agriculture",
+      "url": "https://scijournals.onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.2740361216"
+    },
+    {
+      "title": "Tea Statistics: Global Scenario",
+      "publisher": "Tea Board of India",
+      "url": "https://www.teaboard.gov.in/pdf/Tea%20Statistics%20Global%20Scenario.pdf"
+    },
+    {
+      "title": "Thearubigin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thearubigin"
+    },
+    {
+      "title": "Changes in major catechins, caffeine, and antioxidant activity during CTC processing of black tea from North East India (Deka et al., 2021)",
+      "publisher": "RSC Advances",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8695946/"
+    },
+    {
+      "title": "Indian and Assam Tea Production Fall in 2024: Tea Board of India",
+      "publisher": "The Sentinel, Assam",
+      "url": "https://www.sentinelassam.com/topheadlines/indian-and-assam-tea-production-fall-in-2024-tea-board-of-india"
+    },
+    {
+      "title": "Camellia sinensis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Camellia_sinensis"
+    },
+    {
+      "title": "Hundred Years of Chargola Exodus: Changes and Continuity in the Tea Plantations in Eastern India (Das, 2023)",
+      "publisher": "Contemporary Voice of Dalit, SAGE",
+      "url": "https://journals.sagepub.com/doi/10.1177/2455328X231169637"
+    },
+    {
+      "title": "History of tea in India",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_tea_in_India"
+    },
+    {
+      "title": "Tea leaf grading",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tea_leaf_grading"
+    },
+    {
+      "title": "Indian Tea Scenario and its opportunity in the global market",
+      "publisher": "IJRDO Journal of Social Science and Humanities Research",
+      "url": "https://ijrdo.org/index.php/sshr/article/download/3618/2863/"
+    }
+  ]
+}

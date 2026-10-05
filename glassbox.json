@@ -1,0 +1,108 @@
+{
+  "slug": "teaclear",
+  "box": 152,
+  "date": "2026-10-08",
+  "title": "TeaClear",
+  "question": "How is tea made?",
+  "hook": "Green tea and black tea are the same leaf. Crush it and an enzyme turns it copper in an hour; heat it first and it stays green. Run the factory, stop the oxidation at the right minute, then brew it: caffeine rushes out first, the bitter tannins keep coming, and a pan of chai shows why milk makes it smooth.",
+  "thumbText": "HOW TEA IS MADE",
+  "field": "chemistry",
+  "minutes": 15,
+  "tags": [
+    "tea",
+    "chai",
+    "black tea",
+    "green tea",
+    "CTC",
+    "oxidation",
+    "caffeine",
+    "tannins",
+    "Assam",
+    "Darjeeling",
+    "food science",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "One plant, kept in two rooms",
+      "text": "All tea comes from Camellia sinensis. Pluckers take two leaves and a bud. In each cell the bitter catechins sit in the vacuole and the enzyme polyphenol oxidase sits in the chloroplasts, so a living leaf stays green."
+    },
+    {
+      "title": "The factory breaks the wall",
+      "text": "The leaf is withered from about 77% water to about 70%, then rolled or cut by CTC rollers so the cells tear. Catechins, enzyme and oxygen meet and the leaf oxidises: orange theaflavins rise, then red-brown thearubigins. Hot air then dries it to about 3% water and kills the enzyme. About 100 kg of leaf makes 23.7 kg of tea."
+    },
+    {
+      "title": "Six teas from one leaf",
+      "text": "Heat the leaf first and the enzyme dies: green tea. Oxidise it all the way: black tea. Stop halfway: oolong. Only wither and dry it: white. Wrap a green tea warm and damp: yellow. Pile it damp with microbes for weeks: dark tea, the only one that is truly fermented."
+    },
+    {
+      "title": "The brew is a race",
+      "text": "Caffeine is small and leaves the leaf fast: half is out of whole black leaf in under two minutes at 80 °C (measured). Tannins are bigger, come out more slowly and keep coming, so a long brew adds bitterness, not much caffeine. Hotter water and smaller leaf speed everything up."
+    },
+    {
+      "title": "Why chai is boiled with milk",
+      "text": "CTC granules in boiling water give up nearly all their caffeine within a minute and their tannins soon after. Casein, the main milk protein, binds tannins, so fewer are left to dry your mouth. Sugar covers the rest. A strong Assam CTC can take the boiling and the milk."
+    },
+    {
+      "title": "India's cup, and yours",
+      "text": "India made about 1,285 million kg of tea in 2024, half of it in Assam, and drinks about four fifths of it. ICMR-NIN advises keeping caffeine within 300 mg a day and tea an hour away from meals, because tannins hinder iron absorption. IARC classes drinks above 65 °C as probably carcinogenic, so let the cup cool."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Camellia sinensis",
+      "def": "The tea plant. Every true tea, from green to black, is made from its leaves and buds."
+    },
+    {
+      "term": "Catechins",
+      "def": "The bitter, astringent polyphenols of the fresh leaf, 10 to 25% of its dry weight. EGCG is the most abundant."
+    },
+    {
+      "term": "Polyphenol oxidase",
+      "def": "The leaf's own enzyme that joins catechins with oxygen once the cells are broken. Heat destroys it."
+    },
+    {
+      "term": "Oxidation",
+      "def": "The enzyme-driven browning of crushed tea leaf in air. The tea trade calls it fermentation, but no microbes are involved."
+    },
+    {
+      "term": "Theaflavins and thearubigins",
+      "def": "The orange and red-brown molecules made from catechins during oxidation. They give black tea its brightness, colour and body."
+    },
+    {
+      "term": "CTC",
+      "def": "Crush, tear, curl: toothed rollers that shred withered leaf into granules that brew fast and strong. First used in Assam in 1930."
+    },
+    {
+      "term": "Fixing",
+      "def": "Heating fresh leaf in a pan or in steam to kill the enzyme. It is what keeps green tea green."
+    },
+    {
+      "term": "Extraction",
+      "def": "Molecules moving out of the swollen leaf into hot water. Caffeine leaves fast; tannins follow more slowly."
+    },
+    {
+      "term": "Astringency",
+      "def": "The dry, puckering feeling when tannins grip the proteins in your saliva. Milk protein softens it by binding the tannins first."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "teaclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
